@@ -1,6 +1,6 @@
-# vue-crash-2024
+# Vue Job
 
-This template should help get you started developing with Vue 3 in Vite.
+This website is created with Vue JS and it can be used to organize jobs.
 
 ## Recommended IDE Setup
 
